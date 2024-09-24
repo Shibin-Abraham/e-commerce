@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  width: auto;
+  height: 100vh;
+  font-family: poppins, sans-serif;
+  font-size: 0.88rem;
+  text-decoration: none;
+  user-select: none;
+
+}
+
+#root {
+  height: 100vh;
+}
+
+a {
+  text-decoration: none;
+}

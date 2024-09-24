@@ -1,0 +1,27 @@
+.login {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.login .box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 40vw;
+    height: 60vh;
+    background: rgb(87, 88, 90);
+    border-radius: .5rem;
+}
+
+.login .box h2 {
+    color: aliceblue;
+}
+
+.login .box p {
+    color: rgb(243, 48, 13);
+}
