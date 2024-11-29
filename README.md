@@ -28,4 +28,4 @@ after the insatllation type:
 npm run dev
 ```
 
-Open [http://localhost:5173/e-commerce] with your browser to see the result.
+Open ``` bash http://localhost:5173/e-commerce ``` with your browser to see the result.
